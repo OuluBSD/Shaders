@@ -1,0 +1,14 @@
+description "Binary tree\377";
+
+uses
+	CtrlLib,
+	GraphLib;
+
+file
+	main.cpp,
+	GraphLib1.h;
+
+mainconfig
+	"" = "GUI",
+	"" = "GUI TUI";
+

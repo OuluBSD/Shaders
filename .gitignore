@@ -3,3 +3,7 @@ shaders_270321/**
 tmp/**
 trash/**
 
+
+bin/
+*.out/
+.cache/

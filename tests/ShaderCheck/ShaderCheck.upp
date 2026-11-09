@@ -1,0 +1,10 @@
+uses
+	Core,
+	CtrlLib,
+	GraphLib;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "";
